@@ -10,3 +10,4 @@
 - **Intent Classification:** Detects user intents such as greetings, queries, and requests.
 - **Dynamic Responses:** Generates varied and contextually appropriate responses.
 - **Easy Integration:** Can be adapted and integrated into various applications.
+![image](https://github.com/user-attachments/assets/b8a25cce-6382-4a11-a738-b3f5539759a7)
